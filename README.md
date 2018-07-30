@@ -6,8 +6,7 @@ By Hongmei Song and Wenguan Wang and Sanyuan Zhao and Jianbing Shen and Kin-Man 
 
 ========================================================================
 
-Please install our modified caffe first. Download our model () and put in 
-'model' folder.
+Please install our modified caffe first. Download our model (https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew) and put it in 'model' folder.
 
 Then edit paths in 'test_davis.py'.
 
@@ -15,6 +14,9 @@ Finally, run 'test_davis.py'.
 
 ========================================================================
 
+The saliency and segmentation results can also be found at https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew
+
+========================================================================
 If you find our method useful in your research,please consider citing the following papers:
 
 1) H. Song, W. Wang, J. Shen, S. Zhao, and K. M. Lam, Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection, European Conference on Computer Vision, 2018
