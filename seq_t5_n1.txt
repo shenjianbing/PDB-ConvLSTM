@@ -1,0 +1,1 @@
+/your path/maycaffe-convlstm/models/seq_t5_n1.h5
