@@ -6,9 +6,10 @@ By Hongmei Song and Wenguan Wang and Sanyuan Zhao and Jianbing Shen and Kin-Man 
 
 ========================================================================
 
-Please install our modified caffe first.
+Please install our modified caffe first. Download our model () and put in 
+'model' folder.
 
-Then modify several commonds in 'test_davis.py'.
+Then edit paths in 'test_davis.py'.
 
 Finally, run 'test_davis.py'.
 
