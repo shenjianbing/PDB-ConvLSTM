@@ -19,7 +19,7 @@ The saliency and segmentation results can also be found at https://drive.google.
 ========================================================================
 If you find our method useful in your research,please consider citing the following papers:
 
-1) H. Song, W. Wang, J. Shen, S. Zhao, and K. M. Lam, Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection, European Conference on Computer Vision, 2018
+1) H. Song, W. Wang, J. Shen, S. Zhao, and K. M. Lam, Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection, European Conference on Computer Vision, 2018
 
 2) W. Wang, J. Shen, and L. Shao,Video salient object detection via fully convolutional networks,IEEE Trans. on Image Processing, 27(1):38-49, 2018
 
