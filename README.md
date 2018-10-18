@@ -27,4 +27,4 @@ If you find our method useful in your research,please consider citing the follow
 
 ========================================================================
 
-Any comments, please email:wenguanwang.china@gmail.com
+Any comments, please email:wenguanwang.ai@gmail.com
