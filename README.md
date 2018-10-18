@@ -14,7 +14,7 @@ Finally, run 'test_davis.py'.
 
 ========================================================================
 
-The saliency and segmentation results can also be found at https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew
+The saliency and segmentation results (on the test sets of DAVIS16 and FBMS) can also be found at https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew
 
 ========================================================================
 If you find our method useful in your research,please consider citing the following papers:
