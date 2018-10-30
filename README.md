@@ -16,6 +16,8 @@ Finally, run 'test_davis.py'.
 
 The saliency and segmentation results (on the test sets of DAVIS16 and FBMS) can also be found at https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew
 
+The IOU score of the FBMS-test set should be changed as: 72.3.
+
 ========================================================================
 If you find our method useful in your research,please consider citing the following papers:
 
