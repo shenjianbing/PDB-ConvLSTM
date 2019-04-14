@@ -1,6 +1,6 @@
 Caffe Implementation (v1) for 
 
-# Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection, ECCV, 2018
+# Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection, ECCV, 2018
 
 By Hongmei Song and Wenguan Wang and Sanyuan Zhao and Jianbing Shen and Kin-Man Lam
 
