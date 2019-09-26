@@ -6,7 +6,7 @@ By Hongmei Song and Wenguan Wang and Sanyuan Zhao and Jianbing Shen and Kin-Man 
 
 ========================================================================
 
-Please install our modified caffe first. Download our model (https://drive.google.com/open?id=1vsGV31gfYA48j8usoRjTtfn-IpBosGFH) and put it in 'model' folder.
+Please install our modified caffe first. Download our model (https://drive.google.com/open?id=1vsGV31gfYA48j8usoRjTtfn-IpBosGFH) and put it in 'model' folder. (Baidu disk link: https://pan.baidu.com/s/1Si7pD0iH5yPS_u-jm3WnFA code: rrjk)
 
 Then edit paths in 'test_davis.py'.
 
