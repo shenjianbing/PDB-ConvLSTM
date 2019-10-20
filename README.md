@@ -4,6 +4,12 @@ Caffe Implementation (v1) for
 
 By Hongmei Song and Wenguan Wang and Sanyuan Zhao and Jianbing Shen and Kin-Man Lam
 
+===========================================================================
+
+## :fire::fire::fire:Update
+
+2019/10: Results on DAVIS17 val and test sets are added (instance-level video object segmentation)
+
 ========================================================================
 
 Please install our modified caffe first. Download our model (https://drive.google.com/open?id=1vsGV31gfYA48j8usoRjTtfn-IpBosGFH) and put it in 'model' folder. (Baidu disk link: https://pan.baidu.com/s/1s8m9Mo9XLSHt0hVdEBa4ww&shfl=sharepset#list/path=%2F)
