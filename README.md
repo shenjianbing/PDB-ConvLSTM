@@ -6,7 +6,7 @@ By Hongmei Song and Wenguan Wang and Sanyuan Zhao and Jianbing Shen and Kin-Man 
 
 ========================================================================
 
-Please install our modified caffe first. Download our model (https://drive.google.com/open?id=1vsGV31gfYA48j8usoRjTtfn-IpBosGFH) and put it in 'model' folder. (Baidu disk link: https://pan.baidu.com/s/1Si7pD0iH5yPS_u-jm3WnFA code: rrjk)
+Please install our modified caffe first. Download our model (https://drive.google.com/open?id=1vsGV31gfYA48j8usoRjTtfn-IpBosGFH) and put it in 'model' folder. (Baidu disk link: https://pan.baidu.com/s/1s8m9Mo9XLSHt0hVdEBa4ww&shfl=sharepset#list/path=%2F)
 
 Then edit paths in 'test_davis.py'.
 
@@ -14,7 +14,7 @@ Finally, run 'test_davis.py'.
 
 ========================================================================
 
-The saliency and segmentation results (on the test sets of DAVIS16 and FBMS) can also be found at https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew
+The saliency and segmentation results (on the test sets of DAVIS16 and FBMS) can also be found at https://drive.google.com/open?id=1oOeoDAkxInOL_lKvgaSlnjO_6OLhL2Ew (Baidu disk link: https://pan.baidu.com/s/1s8m9Mo9XLSHt0hVdEBa4ww&shfl=sharepset#list/path=%2F)
 
 The IOU score of the FBMS-test set should be changed as: 72.3.
 
